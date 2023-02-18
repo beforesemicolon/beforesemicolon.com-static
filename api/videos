@@ -1,0 +1,4508 @@
+[
+    {
+        "publishedAt": "2022-06-26T05:48:37Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "A Simpler Way to Build Web UI with Web Components - CWCO",
+        "description": "CWCO\nhttps://www.npmjs.com/package/cwco.\n\nTimeline\n2:10 - Login Form Handling\n9:30 - Form Controller...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_olcdAcnEzM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_olcdAcnEzM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_olcdAcnEzM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_olcdAcnEzM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_olcdAcnEzM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjZJEhaULhXJ0NNbH_EOOuj",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "_olcdAcnEzM",
+        "playlistName": "cwco",
+        "playlists": [
+            "cwco"
+        ],
+        "url": "https://www.youtube.com/watch?v=_olcdAcnEzM"
+    },
+    {
+        "publishedAt": "2022-03-30T04:00:32Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Ripple Button Web Component",
+        "description": "Learn how to create customizable ripple web component buttons and how to use inheritance to extend b...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TviSvzcUc3M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TviSvzcUc3M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TviSvzcUc3M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/TviSvzcUc3M/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/TviSvzcUc3M/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjZJEhaULhXJ0NNbH_EOOuj",
+        "position": 3,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "TviSvzcUc3M",
+        "playlistName": "cwco",
+        "playlists": [
+            "cwco",
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=TviSvzcUc3M"
+    },
+    {
+        "publishedAt": "2022-03-27T04:00:05Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "SVG Font Icon Web Component",
+        "description": "Learn how to generate font Icons from SVG files and use them with an icon web component to easily ad...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/59ah9YJsVig/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/59ah9YJsVig/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/59ah9YJsVig/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/59ah9YJsVig/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/59ah9YJsVig/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjZJEhaULhXJ0NNbH_EOOuj",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "59ah9YJsVig",
+        "playlistName": "cwco",
+        "playlists": [
+            "cwco",
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=59ah9YJsVig"
+    },
+    {
+        "publishedAt": "2022-03-21T08:00:04Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Theme Provider Web Component with CWCO",
+        "description": "Learn how to create a theme-provider web component for your website/application using the CWCO libra...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/K4YSItm8btE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/K4YSItm8btE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/K4YSItm8btE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/K4YSItm8btE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/K4YSItm8btE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjZJEhaULhXJ0NNbH_EOOuj",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "K4YSItm8btE",
+        "playlistName": "cwco",
+        "playlists": [
+            "cwco"
+        ],
+        "url": "https://www.youtube.com/watch?v=K4YSItm8btE"
+    },
+    {
+        "publishedAt": "2022-01-01T19:28:50Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Intro to CWCO Library (Building a Todo App) - Your Web Components Solution",
+        "description": "Introduction to cwco library - Your new go to Web Components Solution  Library: https://www.npmjs.co...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yv3BeEssw9E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yv3BeEssw9E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yv3BeEssw9E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/yv3BeEssw9E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/yv3BeEssw9E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjZJEhaULhXJ0NNbH_EOOuj",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "yv3BeEssw9E",
+        "playlistName": "cwco",
+        "playlists": [
+            "cwco"
+        ],
+        "url": "https://www.youtube.com/watch?v=yv3BeEssw9E"
+    },
+    {
+        "publishedAt": "2021-08-16T05:59:11Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Intro to Web Components - Full Walkthrough",
+        "description": "A brief introduction of web components technologies, best practices, tricks, and guide for web app c...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PFpUCnyztJk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PFpUCnyztJk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PFpUCnyztJk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/PFpUCnyztJk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/PFpUCnyztJk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR",
+        "position": 7,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "PFpUCnyztJk",
+        "playlistName": "Javascript, DOM and Web Components",
+        "playlists": [
+            "Javascript, DOM and Web Components"
+        ],
+        "url": "https://www.youtube.com/watch?v=PFpUCnyztJk"
+    },
+    {
+        "publishedAt": "2021-08-02T03:39:48Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Web Components Walkthrough - Live Stream",
+        "description": "A live walkthrough of Web Components, tips, tricks, gotchas, and more details when it comes to build...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ni1UeWqEncc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ni1UeWqEncc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ni1UeWqEncc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ni1UeWqEncc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ni1UeWqEncc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR",
+        "position": 6,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "ni1UeWqEncc",
+        "playlistName": "Javascript, DOM and Web Components",
+        "playlists": [
+            "Javascript, DOM and Web Components"
+        ],
+        "url": "https://www.youtube.com/watch?v=ni1UeWqEncc"
+    },
+    {
+        "publishedAt": "2021-07-26T01:56:43Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom Audio Player with Web Component and Web Audio API",
+        "description": "A step-by-step guide on how to create a custom audio player with web component and web audio API wit...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rkqqBA6ohc0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rkqqBA6ohc0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rkqqBA6ohc0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rkqqBA6ohc0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rkqqBA6ohc0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 5,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "rkqqBA6ohc0",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=rkqqBA6ohc0"
+    },
+    {
+        "publishedAt": "2021-07-19T09:00:06Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "How to Style, Validate and Server Handle Login and Register/Signup Forms with CSS, Node and HTML+",
+        "description": "A step-by-step guide on how to style and validate login and register form with CSS only as well as h...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Ki8dTyMhVXQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Ki8dTyMhVXQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Ki8dTyMhVXQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Ki8dTyMhVXQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Ki8dTyMhVXQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 32,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "Ki8dTyMhVXQ",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=Ki8dTyMhVXQ"
+    },
+    {
+        "publishedAt": "2021-03-06T14:32:26Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom Loading Indicators - Spinner, Loading Bar, Bouncing Dots, Skeleton Loader,",
+        "description": "A simple CSS walkthrough on how to create some common and basic loading indicators (Spinner, Loading...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gqzTl4t_Xj4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gqzTl4t_Xj4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gqzTl4t_Xj4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gqzTl4t_Xj4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gqzTl4t_Xj4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 21,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "gqzTl4t_Xj4",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=gqzTl4t_Xj4"
+    },
+    {
+        "publishedAt": "2021-03-01T13:15:47Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom Progress Indicator/Stepper for upload, download and forms",
+        "description": "A CSS and Javascript walkthrough on how to create a simple progress indicator that can be used for u...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1fdxT7TJBfM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1fdxT7TJBfM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1fdxT7TJBfM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1fdxT7TJBfM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1fdxT7TJBfM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 28,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "1fdxT7TJBfM",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=1fdxT7TJBfM"
+    },
+    {
+        "publishedAt": "2021-02-15T20:08:40Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom Date-Picker with Web Component - Accessibility and Multi-language support",
+        "description": "A Javascript walkthrough on how to create a custom date picker using OOP and web components with acc...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/g1Zd0Y7OJuI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/g1Zd0Y7OJuI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/g1Zd0Y7OJuI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/g1Zd0Y7OJuI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/g1Zd0Y7OJuI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 3,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "g1Zd0Y7OJuI",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=g1Zd0Y7OJuI"
+    },
+    {
+        "publishedAt": "2021-02-01T22:56:21Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Image Slider/Carousel with CSS and Javascript",
+        "description": "A CSS and Js walkthrough on how to create a simple and responsive image slider using builder design ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/D9RJ9_jZc2Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/D9RJ9_jZc2Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/D9RJ9_jZc2Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/D9RJ9_jZc2Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/D9RJ9_jZc2Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 16,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "D9RJ9_jZc2Q",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=D9RJ9_jZc2Q"
+    },
+    {
+        "publishedAt": "2021-01-23T01:15:00Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "How to create Custom Notification/Snackbar Component",
+        "description": "A CSS and Javascript walkthrough on how to create a custom notifcation component that can be used as...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BWntxaXAmFk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BWntxaXAmFk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BWntxaXAmFk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/BWntxaXAmFk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/BWntxaXAmFk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 24,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "BWntxaXAmFk",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=BWntxaXAmFk"
+    },
+    {
+        "publishedAt": "2021-01-18T01:00:04Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Pagination buttons with CSS and Javascript",
+        "description": "A simple walkthrough on how to create a simple pagination button similar to the one used in the goog...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5ZNuSoAv3qY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5ZNuSoAv3qY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5ZNuSoAv3qY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5ZNuSoAv3qY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5ZNuSoAv3qY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "5ZNuSoAv3qY",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=5ZNuSoAv3qY"
+    },
+    {
+        "publishedAt": "2021-01-13T01:11:00Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom Accordion with CSS & Javascript",
+        "description": "A walkthrough on how to create a generic accordion for any HTML markup with CSS and Javascript. How ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rrRkPOnJaY8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rrRkPOnJaY8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rrRkPOnJaY8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rrRkPOnJaY8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rrRkPOnJaY8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 22,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "rrRkPOnJaY8",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=rrRkPOnJaY8"
+    },
+    {
+        "publishedAt": "2021-01-08T01:10:00Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Responsive Site Nav Menu CSS Only! - Hamburger and Full View Mobile Nav Menu",
+        "description": "A CSS walkthrough on how to create a responsive accessible website nav menu with CSS only. How to cr...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xXze-haVm7g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xXze-haVm7g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xXze-haVm7g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xXze-haVm7g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xXze-haVm7g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 12,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "xXze-haVm7g",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=xXze-haVm7g"
+    },
+    {
+        "publishedAt": "2021-01-04T01:30:01Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Color Theme Website with Dark and Light mode. Night and Day mode",
+        "description": "A quick CSS and Javascript walkthrough on how to detect user color theme preference and setup your w...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Jnn88lzJjWs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Jnn88lzJjWs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Jnn88lzJjWs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Jnn88lzJjWs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Jnn88lzJjWs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 19,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "Jnn88lzJjWs",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=Jnn88lzJjWs"
+    },
+    {
+        "publishedAt": "2020-12-28T01:30:01Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Animated Buttons with Gradients, Shadows & 3D Transform",
+        "description": "A simple walkthrough on general type of buttons and how the style plays out on the hiearchy. 5 cool ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/adUCbVi4G-s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/adUCbVi4G-s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/adUCbVi4G-s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/adUCbVi4G-s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/adUCbVi4G-s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 27,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "adUCbVi4G-s",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=adUCbVi4G-s"
+    },
+    {
+        "publishedAt": "2020-12-19T01:30:07Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "3D Transform a Card with CSS",
+        "description": "A Plain CSS walkthrough on how to create the effect of a card flipping in 3d space. How to transform...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/viH8LeLP6_c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/viH8LeLP6_c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/viH8LeLP6_c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/viH8LeLP6_c/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/viH8LeLP6_c/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 18,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "viH8LeLP6_c",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=viH8LeLP6_c"
+    },
+    {
+        "publishedAt": "2020-12-14T00:57:08Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "User Avatar cards with CSS",
+        "description": "A CSS walkthrough on how to create user avatar images groupin/drawer to display a group of users who...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aQ2inFyLguo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aQ2inFyLguo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aQ2inFyLguo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/aQ2inFyLguo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/aQ2inFyLguo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 14,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "aQ2inFyLguo",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=aQ2inFyLguo"
+    },
+    {
+        "publishedAt": "2020-12-07T04:15:24Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Btyle blog, renting, shopping items post cards with CSS",
+        "description": "A CSS walkthrough on how to style content post cards with plain CSS following some best practices an...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/poB7qyC1Lrg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/poB7qyC1Lrg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/poB7qyC1Lrg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/poB7qyC1Lrg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/poB7qyC1Lrg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 34,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "poB7qyC1Lrg",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=poB7qyC1Lrg"
+    },
+    {
+        "publishedAt": "2020-12-02T10:45:02Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Object Oriented Programming - Quick Intro",
+        "description": "A quick brief intro to the idea of OOP. What it is, important concepts and a shared opinion of how t...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/lcXy4XdXvwQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/lcXy4XdXvwQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/lcXy4XdXvwQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/lcXy4XdXvwQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/lcXy4XdXvwQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiRtF6pVHST2Lk4_YfX3OPd",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "lcXy4XdXvwQ",
+        "playlistName": "Programming",
+        "playlists": [
+            "Programming"
+        ],
+        "url": "https://www.youtube.com/watch?v=lcXy4XdXvwQ"
+    },
+    {
+        "publishedAt": "2020-11-24T11:00:06Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Resumable Multi-File Uploader using XMLHttpRequest, NodeJs Express and Busboy",
+        "description": "A detailed walkthrough on how to create a resumable multi-file uploader, how upload work and techniq...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/R2AD1h0iQAw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/R2AD1h0iQAw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/R2AD1h0iQAw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/R2AD1h0iQAw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/R2AD1h0iQAw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 6,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "R2AD1h0iQAw",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=R2AD1h0iQAw"
+    },
+    {
+        "publishedAt": "2020-11-09T10:45:03Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Graph Data Structure Javascript Implementation - Depth and Breath First Search",
+        "description": "A walkthrough on how to implement a simple graph data structure in javascript with an adjacent list,...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZJS5gDlT4lA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZJS5gDlT4lA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZJS5gDlT4lA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ZJS5gDlT4lA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ZJS5gDlT4lA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUinXIN5wJQH7tVp3FU4dbAN",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "ZJS5gDlT4lA",
+        "playlistName": "Graph Data Structure",
+        "playlists": [
+            "Graph Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=ZJS5gDlT4lA"
+    },
+    {
+        "publishedAt": "2020-11-09T10:45:00Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Graph Data Structure Intro",
+        "description": "A quick introduction to the graph data structure. What it is, how to represent it, what it is good f...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5Tx4A08TspQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5Tx4A08TspQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5Tx4A08TspQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5Tx4A08TspQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5Tx4A08TspQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUinXIN5wJQH7tVp3FU4dbAN",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "5Tx4A08TspQ",
+        "playlistName": "Graph Data Structure",
+        "playlists": [
+            "Graph Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=5Tx4A08TspQ"
+    },
+    {
+        "publishedAt": "2020-10-19T09:55:00Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Binary Heap Tree Implementation in Javascript - Tree Data Structure",
+        "description": "A walkthrough implementation of binary heap tree in javascript with detailed explanation and illustr...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3m2n25nOoSw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3m2n25nOoSw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3m2n25nOoSw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3m2n25nOoSw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3m2n25nOoSw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhf3bCXxWACy6GHeo_3Egri",
+        "position": 7,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "3m2n25nOoSw",
+        "playlistName": "Tree Data Structure",
+        "playlists": [
+            "Tree Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=3m2n25nOoSw"
+    },
+    {
+        "publishedAt": "2020-10-11T10:00:05Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Red Black Tree - Self Balancing Tree - Tree Data Structure",
+        "description": "A walkthrough implementation of binary heap tree in javascript with detailed explanation and illustr...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IDqdf7VicDs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IDqdf7VicDs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IDqdf7VicDs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/IDqdf7VicDs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/IDqdf7VicDs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhf3bCXxWACy6GHeo_3Egri",
+        "position": 6,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "IDqdf7VicDs",
+        "playlistName": "Tree Data Structure",
+        "playlists": [
+            "Tree Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=IDqdf7VicDs"
+    },
+    {
+        "publishedAt": "2020-09-23T10:00:06Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom dialog/modal using css and javascript",
+        "description": "A quick walkthrough on how to create a custom Dialog/Modal with css and javascript using javascript ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/MXoUdhQFUkM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/MXoUdhQFUkM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/MXoUdhQFUkM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/MXoUdhQFUkM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/MXoUdhQFUkM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 29,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "MXoUdhQFUkM",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=MXoUdhQFUkM"
+    },
+    {
+        "publishedAt": "2020-09-21T10:00:10Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom dropdown/select with css and javascript",
+        "description": "A quick walkthrough on how to create a custom dropdown with css and javascript.\n\nsource code:\nhttps:...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/f_E5d9Gt5nM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/f_E5d9Gt5nM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/f_E5d9Gt5nM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/f_E5d9Gt5nM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/f_E5d9Gt5nM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 13,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "f_E5d9Gt5nM",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=f_E5d9Gt5nM"
+    },
+    {
+        "publishedAt": "2020-09-18T10:00:19Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom Right-Click Context Menu with Javascript and CSS",
+        "description": "A quick walkthrough on how to create a custom right click context menu with css and javascript\n\nsour...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kd4iFA6PzBk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kd4iFA6PzBk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kd4iFA6PzBk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/kd4iFA6PzBk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/kd4iFA6PzBk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 15,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "kd4iFA6PzBk",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=kd4iFA6PzBk"
+    },
+    {
+        "publishedAt": "2020-09-14T10:00:07Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Tabs with CSS & Javascript",
+        "description": "A quick walkthrough on how to create a custom tabs with accessibility built-in to accommodate screen...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/G0ZpMT6HhJU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/G0ZpMT6HhJU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/G0ZpMT6HhJU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/G0ZpMT6HhJU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/G0ZpMT6HhJU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 35,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "G0ZpMT6HhJU",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=G0ZpMT6HhJU"
+    },
+    {
+        "publishedAt": "2020-09-10T10:00:01Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Input Range tag styling with CSS",
+        "description": "A quick walkthrough on how to style an HTML input range tag with CSS overcoming the lack of informat...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0T2NnnZDzkk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0T2NnnZDzkk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0T2NnnZDzkk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/0T2NnnZDzkk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/0T2NnnZDzkk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 10,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "0T2NnnZDzkk",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=0T2NnnZDzkk"
+    },
+    {
+        "publishedAt": "2020-09-07T09:56:12Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Tooltips with CSS Only",
+        "description": "A quick walkthrough on how to create custom powerful tooltips using CSS only\n\nsource code:\nhttps://c...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8NtObSzk8Fo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8NtObSzk8Fo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8NtObSzk8Fo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8NtObSzk8Fo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8NtObSzk8Fo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 25,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "8NtObSzk8Fo",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=8NtObSzk8Fo"
+    },
+    {
+        "publishedAt": "2020-09-01T09:27:51Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Style Input fields with CSS - (4 examples)",
+        "description": "A quick walkthrough on how to style HTML input tag with a floating placeholder, drawing and animatin...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3AK3vspZvvM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3AK3vspZvvM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3AK3vspZvvM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3AK3vspZvvM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3AK3vspZvvM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "3AK3vspZvvM",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=3AK3vspZvvM"
+    },
+    {
+        "publishedAt": "2020-08-30T15:36:33Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "AVL Tree Implementation- Self Balancing Binary Tree - Tree Data Structure",
+        "description": "A walkthrough implementation of an avl binary tree in javascript with detailed explanation and illus...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GzOAubKpM5g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GzOAubKpM5g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GzOAubKpM5g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GzOAubKpM5g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GzOAubKpM5g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhf3bCXxWACy6GHeo_3Egri",
+        "position": 5,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "GzOAubKpM5g",
+        "playlistName": "Tree Data Structure",
+        "playlists": [
+            "Tree Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=GzOAubKpM5g"
+    },
+    {
+        "publishedAt": "2020-08-24T10:00:00Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Style Select Tag with CSS",
+        "description": "A quick walkthrough on how to style html select tag without compromising its accessibility features\n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-0VuZEYIYuI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-0VuZEYIYuI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-0VuZEYIYuI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/-0VuZEYIYuI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/-0VuZEYIYuI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "-0VuZEYIYuI",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=-0VuZEYIYuI"
+    },
+    {
+        "publishedAt": "2020-08-21T10:00:15Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Style Checkbox Input Field with CSS",
+        "description": "A quick walkthrough on how to style html checkbox input field with simple transitions\n\nsource code:\n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/y1ATUFJyLaI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/y1ATUFJyLaI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/y1ATUFJyLaI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/y1ATUFJyLaI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/y1ATUFJyLaI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 8,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "y1ATUFJyLaI",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=y1ATUFJyLaI"
+    },
+    {
+        "publishedAt": "2020-08-20T10:00:04Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Style Radio Buttons with CSS",
+        "description": "A brief walkthrough on how to style html radio button input field with simple transitions\n\nsource co...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/MZq5zFSpUlo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/MZq5zFSpUlo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/MZq5zFSpUlo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/MZq5zFSpUlo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/MZq5zFSpUlo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "MZq5zFSpUlo",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=MZq5zFSpUlo"
+    },
+    {
+        "publishedAt": "2020-08-19T10:00:10Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom Toggle Switch with CSS",
+        "description": "A brief walkthrough on how to create custom toggle switch with simple transitions\n\nsource code:\nhttp...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/d9AztvTUYxA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/d9AztvTUYxA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/d9AztvTUYxA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/d9AztvTUYxA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/d9AztvTUYxA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 31,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "d9AztvTUYxA",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=d9AztvTUYxA"
+    },
+    {
+        "publishedAt": "2020-08-18T10:00:10Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Binary Search Tree Implementation - Tree Data Structure",
+        "description": "A walkthrough implementation of a binary tree in javascript with detailed explanation and illustrati...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XwVViR4xQC4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XwVViR4xQC4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XwVViR4xQC4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/XwVViR4xQC4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/XwVViR4xQC4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhf3bCXxWACy6GHeo_3Egri",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "XwVViR4xQC4",
+        "playlistName": "Tree Data Structure",
+        "playlists": [
+            "Tree Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=XwVViR4xQC4"
+    },
+    {
+        "publishedAt": "2020-08-09T06:42:58Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Media File Directory UI Implementation - Tree Data Structure",
+        "description": "UI for an elaborated lite file system tree implementation. Javascript vanilla implementation of a me...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SLJMQXpdzeo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SLJMQXpdzeo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SLJMQXpdzeo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/SLJMQXpdzeo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/SLJMQXpdzeo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhf3bCXxWACy6GHeo_3Egri",
+        "position": 3,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "SLJMQXpdzeo",
+        "playlistName": "Tree Data Structure",
+        "playlists": [
+            "Tree Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=SLJMQXpdzeo"
+    },
+    {
+        "publishedAt": "2020-08-08T16:37:58Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "File System Tree Implementation - Javascript/Tree Data Structure",
+        "description": "An elaborated lite file system tree implementation, Setup work to implement a media file system on t...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cVTbdo17mYs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cVTbdo17mYs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cVTbdo17mYs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/cVTbdo17mYs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/cVTbdo17mYs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhf3bCXxWACy6GHeo_3Egri",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "cVTbdo17mYs",
+        "playlistName": "Tree Data Structure",
+        "playlists": [
+            "Tree Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=cVTbdo17mYs"
+    },
+    {
+        "publishedAt": "2020-08-04T07:21:41Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Generic Tree Implementation - Javascript/Tree Data Structure",
+        "description": "Simple walkthrough on how to implement a generic tree data structure in javascript. Intro to tree im...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/F3zGFmPWQVU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/F3zGFmPWQVU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/F3zGFmPWQVU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/F3zGFmPWQVU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/F3zGFmPWQVU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhf3bCXxWACy6GHeo_3Egri",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "F3zGFmPWQVU",
+        "playlistName": "Tree Data Structure",
+        "playlists": [
+            "Tree Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=F3zGFmPWQVU"
+    },
+    {
+        "publishedAt": "2020-07-21T22:35:17Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Tree Data Structure",
+        "description": "Quick overview on what is a tree data-structure, different types, examples to help you understand wh...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XNBQDAQOKaE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XNBQDAQOKaE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XNBQDAQOKaE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/XNBQDAQOKaE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/XNBQDAQOKaE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhf3bCXxWACy6GHeo_3Egri",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "XNBQDAQOKaE",
+        "playlistName": "Tree Data Structure",
+        "playlists": [
+            "Tree Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=XNBQDAQOKaE"
+    },
+    {
+        "publishedAt": "2020-07-12T14:59:44Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Map vs WeakMap in javascript - When to use Map vs WeakMap?",
+        "description": "Learn about the key differences between the Map and WeakMap in javascript. The best use cases for we...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/QYfZ_gXwxBs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/QYfZ_gXwxBs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/QYfZ_gXwxBs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/QYfZ_gXwxBs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/QYfZ_gXwxBs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUi-rLE0VTNQDUcHwuMSXm92",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "QYfZ_gXwxBs",
+        "playlistName": "Map/Dictionaries Data Structure",
+        "playlists": [
+            "Map/Dictionaries Data Structure",
+            "When To Use *",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=QYfZ_gXwxBs"
+    },
+    {
+        "publishedAt": "2020-07-12T14:27:40Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Map/Dictionaries in javascript - When to use Map vs Object",
+        "description": "Learn about javascript dictionaries option, map vs object in working with key value pair data type\n\n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8NX808LlUFQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8NX808LlUFQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8NX808LlUFQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8NX808LlUFQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8NX808LlUFQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUi-rLE0VTNQDUcHwuMSXm92",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "8NX808LlUFQ",
+        "playlistName": "Map/Dictionaries Data Structure",
+        "playlists": [
+            "Map/Dictionaries Data Structure",
+            "When To Use *",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=8NX808LlUFQ"
+    },
+    {
+        "publishedAt": "2020-07-11T17:16:45Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Scope vs Closure vs Hoisting - Difference between let, const and var - Javascript",
+        "description": "Learn the concepts of scope, closure and hoisting in javascript with examples on difference on let v...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sDmn6p4lRHk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sDmn6p4lRHk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sDmn6p4lRHk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/sDmn6p4lRHk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/sDmn6p4lRHk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR",
+        "position": 5,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "sDmn6p4lRHk",
+        "playlistName": "Javascript, DOM and Web Components",
+        "playlists": [
+            "Javascript, DOM and Web Components"
+        ],
+        "url": "https://www.youtube.com/watch?v=sDmn6p4lRHk"
+    },
+    {
+        "publishedAt": "2020-07-07T21:58:35Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "What is Recursion and How it Works",
+        "description": "Learn the basics of recursion. What is recursion, how it works, why and when to use it? Includes exa...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/7oLO9iAyYIM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/7oLO9iAyYIM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/7oLO9iAyYIM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/7oLO9iAyYIM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/7oLO9iAyYIM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "7oLO9iAyYIM",
+        "playlistName": "Javascript, DOM and Web Components",
+        "playlists": [
+            "Javascript, DOM and Web Components"
+        ],
+        "url": "https://www.youtube.com/watch?v=7oLO9iAyYIM"
+    },
+    {
+        "publishedAt": "2020-07-06T11:29:34Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom Text Underline with CSS",
+        "description": "A quick tip on how to create custom css text underline with CSS\n\nsource code:\nhttps://codepen.io/bef...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WnI3a5V90AQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WnI3a5V90AQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WnI3a5V90AQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WnI3a5V90AQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WnI3a5V90AQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 11,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "WnI3a5V90AQ",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=WnI3a5V90AQ"
+    },
+    {
+        "publishedAt": "2020-06-30T10:30:05Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Folded Corners with CSS",
+        "description": "Learn how to create folded corner effect with css background gradient and pseudo element\n\nsource cod...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rhvpZDws4UA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rhvpZDws4UA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rhvpZDws4UA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rhvpZDws4UA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rhvpZDws4UA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 17,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "rhvpZDws4UA",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=rhvpZDws4UA"
+    },
+    {
+        "publishedAt": "2020-06-29T10:30:04Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Cutout Corners with CSS",
+        "description": "Learn how to create cutout corners with pure css. curved and straight(45deg) cutout with css\n\nsource...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GslwnN4agzo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GslwnN4agzo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GslwnN4agzo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GslwnN4agzo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GslwnN4agzo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 9,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "GslwnN4agzo",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=GslwnN4agzo"
+    },
+    {
+        "publishedAt": "2020-06-27T04:13:04Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Linked List - what and when to use this data structure",
+        "description": "quick intro to what linked list data structure is and its potential usage before js implementation\n\n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HEPlGiiAVe4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HEPlGiiAVe4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HEPlGiiAVe4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HEPlGiiAVe4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HEPlGiiAVe4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjYVMTzZIQmOHssllxAw8QY",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "HEPlGiiAVe4",
+        "playlistName": "Linked List Data Structure",
+        "playlists": [
+            "Linked List Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=HEPlGiiAVe4"
+    },
+    {
+        "publishedAt": "2020-06-27T04:13:04Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Linked List Javascript implementation",
+        "description": "Learn how to implement a single pointer linked list in javascript\n\nRead Article:\nhttps://link.medium...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wVkmYeAHHOE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wVkmYeAHHOE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wVkmYeAHHOE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/wVkmYeAHHOE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/wVkmYeAHHOE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjYVMTzZIQmOHssllxAw8QY",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "wVkmYeAHHOE",
+        "playlistName": "Linked List Data Structure",
+        "playlists": [
+            "Linked List Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=wVkmYeAHHOE"
+    },
+    {
+        "publishedAt": "2020-06-27T04:13:04Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Double Linked List javascript implementation and How to reverse a linked list",
+        "description": "A quick walkthrough on how to implement a doubled linked list with a special bonus on how to reverse...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/d3hYpvPyNWY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/d3hYpvPyNWY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/d3hYpvPyNWY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/d3hYpvPyNWY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/d3hYpvPyNWY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjYVMTzZIQmOHssllxAw8QY",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "d3hYpvPyNWY",
+        "playlistName": "Linked List Data Structure",
+        "playlists": [
+            "Linked List Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=d3hYpvPyNWY"
+    },
+    {
+        "publishedAt": "2020-06-27T04:13:04Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Circular Linked List Javascript implementation- Single and Double",
+        "description": "Quick walkthrough on how to create a circular single and double linked list in javascript from previ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gwC2037Va0Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gwC2037Va0Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gwC2037Va0Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gwC2037Va0Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gwC2037Va0Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjYVMTzZIQmOHssllxAw8QY",
+        "position": 3,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "gwC2037Va0Q",
+        "playlistName": "Linked List Data Structure",
+        "playlists": [
+            "Linked List Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=gwC2037Va0Q"
+    },
+    {
+        "publishedAt": "2020-06-27T04:13:03Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Sorted Linked List Javascript implementation",
+        "description": "A quick walkthrough on how to implemented a sorted linked list in javascript\n\nRead Article Version:\n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/F2LFuYXLzdA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/F2LFuYXLzdA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/F2LFuYXLzdA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/F2LFuYXLzdA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/F2LFuYXLzdA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjYVMTzZIQmOHssllxAw8QY",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "F2LFuYXLzdA",
+        "playlistName": "Linked List Data Structure",
+        "playlists": [
+            "Linked List Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=F2LFuYXLzdA"
+    },
+    {
+        "publishedAt": "2020-06-27T04:13:03Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Linked List vs Array - When to use what?",
+        "description": "Quick comparison on linked list and array data structures. when to use linked vs array. should you w...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wgcXYDDises/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wgcXYDDises/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wgcXYDDises/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/wgcXYDDises/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/wgcXYDDises/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUjYVMTzZIQmOHssllxAw8QY",
+        "position": 5,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "wgcXYDDises",
+        "playlistName": "Linked List Data Structure",
+        "playlists": [
+            "Linked List Data Structure",
+            "When To Use *",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=wgcXYDDises"
+    },
+    {
+        "publishedAt": "2020-06-21T22:56:40Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "CSS Selectors - id, class, attributes, combinators, pseudo class, pseudo element and more",
+        "description": "Learn all about css selectors and every single one supported as June of 2020. How to use attribute, ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xwdWVtMyiR8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xwdWVtMyiR8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xwdWVtMyiR8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xwdWVtMyiR8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xwdWVtMyiR8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUit7eze659XH_YmflIwrI1a",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "xwdWVtMyiR8",
+        "playlistName": "CSS",
+        "playlists": [
+            "CSS"
+        ],
+        "url": "https://www.youtube.com/watch?v=xwdWVtMyiR8"
+    },
+    {
+        "publishedAt": "2020-06-14T02:01:34Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Set vs WeakSet vs Array in Javascript",
+        "description": "Learn about the key differences between Set, WeakSet and Arrays and when to use what\n\nRead Article V...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/M_UF-Y7JdCY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/M_UF-Y7JdCY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/M_UF-Y7JdCY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/M_UF-Y7JdCY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/M_UF-Y7JdCY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiY4-g7jd29MAQnN6SXVXS2",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "M_UF-Y7JdCY",
+        "playlistName": "Set Data Structure",
+        "playlists": [
+            "Set Data Structure",
+            "When To Use *",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=M_UF-Y7JdCY"
+    },
+    {
+        "publishedAt": "2020-06-14T02:01:11Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Understanding Set in Javascript and When to use it",
+        "description": "Learn what is the set data structure and when to use it in javascript\n\nRead Article Version;\nhttps:/...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Gs5vUnjfIW0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Gs5vUnjfIW0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Gs5vUnjfIW0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Gs5vUnjfIW0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Gs5vUnjfIW0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiY4-g7jd29MAQnN6SXVXS2",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "Gs5vUnjfIW0",
+        "playlistName": "Set Data Structure",
+        "playlists": [
+            "Set Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=Gs5vUnjfIW0"
+    },
+    {
+        "publishedAt": "2020-06-14T02:01:11Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Set List level operations(Union, Intersection, Difference) and Static Set",
+        "description": "Learn about common Set data structure operations like union, intersection, difference, superset, sub...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_dw4QE78nqc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_dw4QE78nqc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_dw4QE78nqc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_dw4QE78nqc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_dw4QE78nqc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiY4-g7jd29MAQnN6SXVXS2",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "_dw4QE78nqc",
+        "playlistName": "Set Data Structure",
+        "playlists": [
+            "Set Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=_dw4QE78nqc"
+    },
+    {
+        "publishedAt": "2020-06-07T17:50:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Queue data structure and when to use it in javascript",
+        "description": "Learn what is a queue data structure, when to use it and example of real life usage\n\ntimeline:\n0:24 ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ww5D5IGpi8Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ww5D5IGpi8Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ww5D5IGpi8Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ww5D5IGpi8Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ww5D5IGpi8Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiQspc0SdCOhj8xlO5Y4iRE",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "ww5D5IGpi8Y",
+        "playlistName": "Queue Data Structure",
+        "playlists": [
+            "Queue Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=ww5D5IGpi8Y"
+    },
+    {
+        "publishedAt": "2020-06-07T17:50:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Queue vs Stack key differences",
+        "description": "Learn about the key differences between stack and queue data structure\n\nplaylist:\nhttps://www.youtub...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ohSzM7WtwOk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ohSzM7WtwOk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ohSzM7WtwOk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ohSzM7WtwOk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ohSzM7WtwOk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiQspc0SdCOhj8xlO5Y4iRE",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "ohSzM7WtwOk",
+        "playlistName": "Queue Data Structure",
+        "playlists": [
+            "Queue Data Structure",
+            "When To Use *",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=ohSzM7WtwOk"
+    },
+    {
+        "publishedAt": "2020-06-07T17:50:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Circular Queue Implementation in Javascript",
+        "description": "Learn how to implement a circular queue in javascript\n\nsource code: \nhttps://github.com/ECorreia45/t...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/591-adX0F6M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/591-adX0F6M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/591-adX0F6M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/591-adX0F6M/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/591-adX0F6M/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiQspc0SdCOhj8xlO5Y4iRE",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "591-adX0F6M",
+        "playlistName": "Queue Data Structure",
+        "playlists": [
+            "Queue Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=591-adX0F6M"
+    },
+    {
+        "publishedAt": "2020-06-07T17:50:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Priority Queue Implementation in Javascript",
+        "description": "Learn how to implement a simple priority queue in javascript\n\nsource code:\nhttps://github.com/ECorre...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/7jUzhPHCKAU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/7jUzhPHCKAU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/7jUzhPHCKAU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/7jUzhPHCKAU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/7jUzhPHCKAU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiQspc0SdCOhj8xlO5Y4iRE",
+        "position": 3,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "7jUzhPHCKAU",
+        "playlistName": "Queue Data Structure",
+        "playlists": [
+            "Queue Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=7jUzhPHCKAU"
+    },
+    {
+        "publishedAt": "2020-06-07T17:50:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Queue Implementation in Javascript + printer network + promise sequential asynchronous task",
+        "description": "Learn how to implement a queue data structure by creating a printer network in javascript while usin...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/e7q2ovWtf-g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/e7q2ovWtf-g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/e7q2ovWtf-g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/e7q2ovWtf-g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/e7q2ovWtf-g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiQspc0SdCOhj8xlO5Y4iRE",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "e7q2ovWtf-g",
+        "playlistName": "Queue Data Structure",
+        "playlists": [
+            "Queue Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=e7q2ovWtf-g"
+    },
+    {
+        "publishedAt": "2020-06-02T10:31:54Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "When to use image, figure and picture tag in html",
+        "description": "Learn about the differences between the image, figure and picture tags in html and when is the best ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Xn5_gDQFyJg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Xn5_gDQFyJg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Xn5_gDQFyJg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Xn5_gDQFyJg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Xn5_gDQFyJg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUh861ba0RvGvb1Vlu-faG3X",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "Xn5_gDQFyJg",
+        "playlistName": "When To Use *",
+        "playlists": [
+            "When To Use *",
+            "HTML"
+        ],
+        "url": "https://www.youtube.com/watch?v=Xn5_gDQFyJg"
+    },
+    {
+        "publishedAt": "2020-06-01T03:43:15Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "How to implement a Stack in javascript",
+        "description": "Learn how to implement a stack in javascript using Map and Array under the hood\n\nsource code:\nhttps:...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3CMFMfA0Aqk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3CMFMfA0Aqk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3CMFMfA0Aqk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3CMFMfA0Aqk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3CMFMfA0Aqk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiTD7xhJvKDq6ZKh7TjzCKb",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "3CMFMfA0Aqk",
+        "playlistName": "Stack Data Structure",
+        "playlists": [
+            "Stack Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=3CMFMfA0Aqk"
+    },
+    {
+        "publishedAt": "2020-06-01T03:43:13Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "What and when to use a Stack data structure - abstract data type",
+        "description": "Understand what is a stack data structure and abstract data type and when to use it.\n\nArray vs Stack...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gbdKO2Zhs9M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gbdKO2Zhs9M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gbdKO2Zhs9M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gbdKO2Zhs9M/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gbdKO2Zhs9M/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiTD7xhJvKDq6ZKh7TjzCKb",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "gbdKO2Zhs9M",
+        "playlistName": "Stack Data Structure",
+        "playlists": [
+            "Stack Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=gbdKO2Zhs9M"
+    },
+    {
+        "publishedAt": "2020-06-01T03:43:11Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array vs Stack data structure - When to use what",
+        "description": "Learn the difference between array and stack and when to use each\n\nWhat is Stack:\nhttps://youtu.be/g...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RsG58RhOaGY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RsG58RhOaGY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RsG58RhOaGY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/RsG58RhOaGY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/RsG58RhOaGY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUiTD7xhJvKDq6ZKh7TjzCKb",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "RsG58RhOaGY",
+        "playlistName": "Stack Data Structure",
+        "playlists": [
+            "Stack Data Structure",
+            "When To Use *",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=RsG58RhOaGY"
+    },
+    {
+        "publishedAt": "2020-05-26T13:59:58Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Animated Mobile Menu with CSS and Javascript- Parallax effect",
+        "description": "Learn how to make a mobile menu slide show/hide when the user scrolls the container\n\nSource code:\nht...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5P33P_kaP2o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5P33P_kaP2o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5P33P_kaP2o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5P33P_kaP2o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5P33P_kaP2o/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 30,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "5P33P_kaP2o",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=5P33P_kaP2o"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:57Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array Iterators Keys and Values - Access and iterate Array items",
+        "description": "Learn to access array items and how to extract information out of keys, values and entries iterators...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FDpXeEohz9E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FDpXeEohz9E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FDpXeEohz9E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/FDpXeEohz9E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/FDpXeEohz9E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "FDpXeEohz9E",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=FDpXeEohz9E"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:57Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array push, pop, shift, unshift and splice - add and remove items from any position",
+        "description": "Learn to add and remove items from any position in the array with pop, push, shift, unshift and spli...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sdHmOOnZVw4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sdHmOOnZVw4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sdHmOOnZVw4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/sdHmOOnZVw4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/sdHmOOnZVw4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 3,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "sdHmOOnZVw4",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=sdHmOOnZVw4"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:57Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Iterate an array with while, for loops as well as using forEach and iterators",
+        "description": "learn how to iterate arrays using the while lop, for loops, forEach and iterators\n\nplaylist:\nhttps:/...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mgUq4HYtd_0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mgUq4HYtd_0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mgUq4HYtd_0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mgUq4HYtd_0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mgUq4HYtd_0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 5,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "mgUq4HYtd_0",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=mgUq4HYtd_0"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:57Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array reverse, sort and copyWithin methods - Manipulate array items in place",
+        "description": "Learn how to change array item orders in place with the reverse, sort and copyWithin methods\n\nPlayli...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_UfgArNwHgQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_UfgArNwHgQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_UfgArNwHgQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_UfgArNwHgQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_UfgArNwHgQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 8,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "_UfgArNwHgQ",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=_UfgArNwHgQ"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:57Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array reduce - Transform array into a single object",
+        "description": "Learn how to use reduce to transform and extract information out of arrays and how to transform arra...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/DTmToxWZX9I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/DTmToxWZX9I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/DTmToxWZX9I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/DTmToxWZX9I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/DTmToxWZX9I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 9,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "DTmToxWZX9I",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=DTmToxWZX9I"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Javascript Array from and fill methods - Create Sized Array Dynamically",
+        "description": "Learn how to create array single and multiple dimension arrays, how to populate tem with fill and fr...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Sk3MxEUSwY4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Sk3MxEUSwY4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Sk3MxEUSwY4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Sk3MxEUSwY4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Sk3MxEUSwY4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "Sk3MxEUSwY4",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=Sk3MxEUSwY4"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array toString, toLocaleString and join methods - Transform array into strings",
+        "description": "Learn how to print an array using the toString, toLocaleString and join methods in javascript\n\nplayl...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hD2PYIsPMDw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hD2PYIsPMDw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hD2PYIsPMDw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/hD2PYIsPMDw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/hD2PYIsPMDw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "hD2PYIsPMDw",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=hD2PYIsPMDw"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array concat, slice and spread operator - Combining, Copying and Slicing Array",
+        "description": "Learn how to combine and copy arrays using concat, slice and spread operator\n\nplaylist:\nhttps://www....",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/r1C5vbtnsfw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/r1C5vbtnsfw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/r1C5vbtnsfw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/r1C5vbtnsfw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/r1C5vbtnsfw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "r1C5vbtnsfw",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=r1C5vbtnsfw"
+    },
+    {
+        "publishedAt": "2020-05-25T16:12:56Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array indexOf, includes, find, filter, every and some methods - Search, Check and Filter Array Items",
+        "description": "Learn to check various states of an array as well as finding items quickly with the indexOf, include...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ajZ3wVZew3Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ajZ3wVZew3Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ajZ3wVZew3Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ajZ3wVZew3Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ajZ3wVZew3Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 6,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "ajZ3wVZew3Q",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=ajZ3wVZew3Q"
+    },
+    {
+        "publishedAt": "2020-05-25T13:51:25Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Array map, flat, flatMap and filter methods",
+        "description": "Learn how to use the power of map, flat, flatMap and filter to change the format of the array items\n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yMN1aMhj4_I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yMN1aMhj4_I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yMN1aMhj4_I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/yMN1aMhj4_I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/yMN1aMhj4_I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUigZr2vQgbqpTv_HLQ6eZsz",
+        "position": 7,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "yMN1aMhj4_I",
+        "playlistName": "Array Data Structure",
+        "playlists": [
+            "Array Data Structure",
+            "Data Structures - Javascript"
+        ],
+        "url": "https://www.youtube.com/watch?v=yMN1aMhj4_I"
+    },
+    {
+        "publishedAt": "2020-05-22T11:57:52Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Animated Post Cards Opening on Click with javascript and css",
+        "description": "Learn how to create the effect of expanding or shrinking a container, a post or a box with simple cs...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Lg77mGC_Lzc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Lg77mGC_Lzc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Lg77mGC_Lzc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Lg77mGC_Lzc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Lg77mGC_Lzc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 7,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "Lg77mGC_Lzc",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=Lg77mGC_Lzc"
+    },
+    {
+        "publishedAt": "2020-01-04T20:20:42Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Button Ripple effect with CSS and Javascript",
+        "description": "how to create material design like ripple effects on buttons and suitable for any other ui element.\n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/60gVJA2iLGc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/60gVJA2iLGc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/60gVJA2iLGc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/60gVJA2iLGc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/60gVJA2iLGc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 23,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "60gVJA2iLGc",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=60gVJA2iLGc"
+    },
+    {
+        "publishedAt": "2019-04-06T07:37:32Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "CSS position - mastering css [How it works]",
+        "description": "A simple walkthrough on css position making it clear how each one works with examples.\n\nfollow @:\n- ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/R7iz0pY98q0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/R7iz0pY98q0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/R7iz0pY98q0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/R7iz0pY98q0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/R7iz0pY98q0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUit7eze659XH_YmflIwrI1a",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "R7iz0pY98q0",
+        "playlistName": "CSS",
+        "playlists": [
+            "CSS"
+        ],
+        "url": "https://www.youtube.com/watch?v=R7iz0pY98q0"
+    },
+    {
+        "publishedAt": "2019-01-03T13:52:25Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "When to use main, header, footer and aside html tags",
+        "description": "A quick run through on when to use main, header, footer and aside tags\n\nfollow @:\n- Instagram = http...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/lVmX-7XEyd4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/lVmX-7XEyd4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/lVmX-7XEyd4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/lVmX-7XEyd4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/lVmX-7XEyd4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUh861ba0RvGvb1Vlu-faG3X",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "lVmX-7XEyd4",
+        "playlistName": "When To Use *",
+        "playlists": [
+            "When To Use *",
+            "HTML"
+        ],
+        "url": "https://www.youtube.com/watch?v=lVmX-7XEyd4"
+    },
+    {
+        "publishedAt": "2018-10-27T16:41:53Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Filter DOM selection in plain/vanilla javascript [How to]",
+        "description": "Learn how to filter DOM selection in plain javascript. The equivalent of jQuery .eq(), .last(), .fir...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/N39pVvlwEmw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/N39pVvlwEmw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/N39pVvlwEmw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/N39pVvlwEmw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/N39pVvlwEmw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUg1Q2hfs7j62aOTqlVQPcuK",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "N39pVvlwEmw",
+        "playlistName": "Javascript for jQuery developers",
+        "playlists": [
+            "Javascript for jQuery developers"
+        ],
+        "url": "https://www.youtube.com/watch?v=N39pVvlwEmw"
+    },
+    {
+        "publishedAt": "2018-10-09T04:15:35Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Select element siblings in plain/vanilla javascript [How To]",
+        "description": "Learn how to select element siblings without jQuery. Learn vanilla javascript equivalent of jQuery n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/o3DdT94Gc2A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/o3DdT94Gc2A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/o3DdT94Gc2A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/o3DdT94Gc2A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/o3DdT94Gc2A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUg1Q2hfs7j62aOTqlVQPcuK",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "o3DdT94Gc2A",
+        "playlistName": "Javascript for jQuery developers",
+        "playlists": [
+            "Javascript for jQuery developers"
+        ],
+        "url": "https://www.youtube.com/watch?v=o3DdT94Gc2A"
+    },
+    {
+        "publishedAt": "2018-10-09T02:20:45Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Select element parents in plain/vanilla javascript  [How To]",
+        "description": "Learn how to select elements parents in vanilla js. This video show vanilla javascript version of jQ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CVhf9jIh-CQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CVhf9jIh-CQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CVhf9jIh-CQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/CVhf9jIh-CQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/CVhf9jIh-CQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUg1Q2hfs7j62aOTqlVQPcuK",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "CVhf9jIh-CQ",
+        "playlistName": "Javascript for jQuery developers",
+        "playlists": [
+            "Javascript for jQuery developers"
+        ],
+        "url": "https://www.youtube.com/watch?v=CVhf9jIh-CQ"
+    },
+    {
+        "publishedAt": "2018-10-08T06:28:07Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Select element children in plain/vanilla javascript  [How To]",
+        "description": "Learn how to select child elements and check if an element is child of another.\n\nfollow @:\n- Instagr...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3d3gA1Sy2Yg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3d3gA1Sy2Yg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3d3gA1Sy2Yg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3d3gA1Sy2Yg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3d3gA1Sy2Yg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUg1Q2hfs7j62aOTqlVQPcuK",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "3d3gA1Sy2Yg",
+        "playlistName": "Javascript for jQuery developers",
+        "playlists": [
+            "Javascript for jQuery developers"
+        ],
+        "url": "https://www.youtube.com/watch?v=3d3gA1Sy2Yg"
+    },
+    {
+        "publishedAt": "2018-09-10T08:51:38Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Search Field (animate search icon into text cursor) - UI [How To]",
+        "description": "Learn how to make your search field magical by turning your search icon into a text cursor when the ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XnndhSaszuY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XnndhSaszuY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XnndhSaszuY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/XnndhSaszuY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/XnndhSaszuY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0",
+        "position": 33,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "XnndhSaszuY",
+        "playlistName": "Build Web Views & UI Elements",
+        "playlists": [
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=XnndhSaszuY"
+    },
+    {
+        "publishedAt": "2018-09-05T21:18:09Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Select DOM element with plain/vanilla javascript [How To]",
+        "description": "Learn how to query any dom element without needing the awesome jQuery DOM traversing tools.\n\n\nCODE @...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/o9M9GvwOSCk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/o9M9GvwOSCk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/o9M9GvwOSCk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/o9M9GvwOSCk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/o9M9GvwOSCk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUg1Q2hfs7j62aOTqlVQPcuK",
+        "position": 3,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "o9M9GvwOSCk",
+        "playlistName": "Javascript for jQuery developers",
+        "playlists": [
+            "Javascript for jQuery developers"
+        ],
+        "url": "https://www.youtube.com/watch?v=o9M9GvwOSCk"
+    },
+    {
+        "publishedAt": "2018-07-07T09:19:52Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "When to use HTML image tag vs CSS background image",
+        "description": "A quick overview of the best practice when it comes to putting an image in your page\n\nfollow @:\n- In...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xDFNvEwPYYY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xDFNvEwPYYY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xDFNvEwPYYY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xDFNvEwPYYY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xDFNvEwPYYY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUh861ba0RvGvb1Vlu-faG3X",
+        "position": 4,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "xDFNvEwPYYY",
+        "playlistName": "When To Use *",
+        "playlists": [
+            "When To Use *",
+            "HTML"
+        ],
+        "url": "https://www.youtube.com/watch?v=xDFNvEwPYYY"
+    },
+    {
+        "publishedAt": "2018-01-31T04:52:27Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "CSS Specificity - What style rules gets set?",
+        "description": "Learn all about CSS specificity\n\nfollow @:\n- Instagram = https://www.instagram.com/before_semicolon_...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ysS1U1zzF6Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ysS1U1zzF6Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ysS1U1zzF6Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ysS1U1zzF6Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ysS1U1zzF6Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUit7eze659XH_YmflIwrI1a",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "ysS1U1zzF6Y",
+        "playlistName": "CSS",
+        "playlists": [
+            "CSS"
+        ],
+        "url": "https://www.youtube.com/watch?v=ysS1U1zzF6Y"
+    },
+    {
+        "publishedAt": "2018-01-31T03:42:45Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Remove, Clone and Replace DOM Elements [ How To ]",
+        "description": "Learn how to remove, clone and replace dom elements with plain/vanilla javascript\n\nfollow @:\n- Insta...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WJ3lpPVyVUI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WJ3lpPVyVUI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WJ3lpPVyVUI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WJ3lpPVyVUI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WJ3lpPVyVUI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR",
+        "position": 3,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "WJ3lpPVyVUI",
+        "playlistName": "Javascript, DOM and Web Components",
+        "playlists": [
+            "Javascript, DOM and Web Components"
+        ],
+        "url": "https://www.youtube.com/watch?v=WJ3lpPVyVUI"
+    },
+    {
+        "publishedAt": "2018-01-29T06:43:24Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Select Elements Siblings [ How To ]",
+        "description": "Learn how to select DOM element siblings\n\nfollow @:\n- Instagram = https://www.instagram.com/before_s...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BRdq03yqDhY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BRdq03yqDhY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BRdq03yqDhY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/BRdq03yqDhY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/BRdq03yqDhY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "BRdq03yqDhY",
+        "playlistName": "Javascript, DOM and Web Components",
+        "playlists": [
+            "Javascript, DOM and Web Components"
+        ],
+        "url": "https://www.youtube.com/watch?v=BRdq03yqDhY"
+    },
+    {
+        "publishedAt": "2018-01-29T00:14:21Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Select any DOM element and (Nodelist vs HTMLCollection) - [ How to ]",
+        "description": "Learn how to get element by ID, ClassName, Tag Name, name and by querying like css\n\nfollow @:\n- Inst...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mXOGpcm19J8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mXOGpcm19J8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mXOGpcm19J8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mXOGpcm19J8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mXOGpcm19J8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR",
+        "position": 1,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "mXOGpcm19J8",
+        "playlistName": "Javascript, DOM and Web Components",
+        "playlists": [
+            "Javascript, DOM and Web Components"
+        ],
+        "url": "https://www.youtube.com/watch?v=mXOGpcm19J8"
+    },
+    {
+        "publishedAt": "2017-12-15T10:51:08Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Select, Remove, Replace and Clone DOM Elements with plain Javascript",
+        "description": "Learn how to select remove replace or clone any element, any child node, parent node, any siblings n...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sILWThH3RnA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sILWThH3RnA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sILWThH3RnA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/sILWThH3RnA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/sILWThH3RnA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR",
+        "position": 2,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "sILWThH3RnA",
+        "playlistName": "Javascript, DOM and Web Components",
+        "playlists": [
+            "Javascript, DOM and Web Components"
+        ],
+        "url": "https://www.youtube.com/watch?v=sILWThH3RnA"
+    },
+    {
+        "publishedAt": "2017-12-13T19:04:46Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "When to use Section vs Article vs Div in Html?",
+        "description": "learn about the semantics behind section article and div tags in HTML.\n\nfollow @:\n- Instagram = http...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/swWeWesZVZU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/swWeWesZVZU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/swWeWesZVZU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/swWeWesZVZU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/swWeWesZVZU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUh861ba0RvGvb1Vlu-faG3X",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "swWeWesZVZU",
+        "playlistName": "When To Use *",
+        "playlists": [
+            "When To Use *",
+            "HTML"
+        ],
+        "url": "https://www.youtube.com/watch?v=swWeWesZVZU"
+    }
+]
