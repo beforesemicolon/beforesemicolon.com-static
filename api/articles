@@ -1,9 +1,32 @@
 [
     {
+        "id": "8dbd046bddb3",
+        "title": "How To Create a JSON Database In NodeJs From Scratch",
+        "permalink": "https://medium.com/p/8dbd046bddb3",
+        "escapedTitle": "how-to-create-a-json-database-in-nodejs-from-scratch",
+        "url": "https://elsoncorreia.medium.com/how-to-create-a-json-database-in-nodejs-from-scratch-8dbd046bddb3?source=rss-505ba290f8ba------2",
+        "intro": "In order to teach myself my ways of working with NodeJs, Javascript, and Typescript, I have built many versions of a file-based JSON…",
+        "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*rX8HMa1WcTxOuVo7",
+        "readDuration": 4,
+        "urlShort": "https://medium.com/p/8dbd046bddb3",
+        "category": [
+            "how-to",
+            "typescript",
+            "database",
+            "javascript",
+            "nodejs"
+        ],
+        "publishedAt": "Wed, 22 Feb 2023 10:55:39 GMT",
+        "updatedAt": "2023-02-22T10:55:39.822Z",
+        "content": "",
+        "creator": "Elson Correia",
+        "link": "https://elsoncorreia.medium.com/how-to-create-a-json-database-in-nodejs-from-scratch-8dbd046bddb3?source=rss-505ba290f8ba------2"
+    },
+    {
         "id": "16f3874f2ce5",
-        "title": "How to Setup a TypeScript + NodeJs Server (2023)",
+        "title": "How to Set up a TypeScript + NodeJs Server (2023)",
         "permalink": "https://medium.com/p/16f3874f2ce5",
-        "escapedTitle": "how-to-setup-a-typescript--nodejs-server-2023",
+        "escapedTitle": "how-to-set-up-a-typescript--nodejs-server-2023",
         "url": "https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5?source=rss-505ba290f8ba------2",
         "intro": "With new releases and tools, setting up a node server has become super simple and until NodeJs ships with typescript built-in, adding&#x2026;",
         "thumbnail": "https://cdn-images-1.medium.com/max/1280/1*yY3Ohl7oy2bvUOjxU-iJPg.png",
@@ -17,7 +40,7 @@
             "javascript"
         ],
         "publishedAt": "Sat, 18 Feb 2023 07:06:48 GMT",
-        "updatedAt": "2023-02-18T07:07:36.413Z",
+        "updatedAt": "2023-02-18T20:01:53.136Z",
         "content": "",
         "creator": "Elson Correia",
         "link": "https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5?source=rss-505ba290f8ba------2"
@@ -205,28 +228,5 @@
         "content": "",
         "creator": "Elson Correia",
         "link": "https://medium.com/before-semicolon/how-to-create-a-theme-provider-with-web-component-6e752555149c?source=rss-505ba290f8ba------2"
-    },
-    {
-        "id": "90131dd9256d",
-        "title": "Bad Questions I Got Asked During Tech Job Interviews",
-        "permalink": "https://medium.com/p/90131dd9256d",
-        "escapedTitle": "bad-questions-i-got-asked-during-tech-job-interviews",
-        "url": "https://elsoncorreia.medium.com/shocking-questions-i-got-asked-during-tech-job-interviews-90131dd9256d?source=rss-505ba290f8ba------2",
-        "intro": "I went to dozens of job interviews with many different company types. From my early days till now I got asked some crazy questions and the&#x2026;",
-        "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*Yjmhqvmj8W1T8Tqo",
-        "readDuration": 4,
-        "urlShort": "https://medium.com/p/90131dd9256d",
-        "category": [
-            "career-advice",
-            "interview",
-            "technology",
-            "careers",
-            "programming"
-        ],
-        "publishedAt": "Mon, 31 Jan 2022 22:08:46 GMT",
-        "updatedAt": "2022-11-29T07:27:27.429Z",
-        "content": "",
-        "creator": "Elson Correia",
-        "link": "https://elsoncorreia.medium.com/shocking-questions-i-got-asked-during-tech-job-interviews-90131dd9256d?source=rss-505ba290f8ba------2"
     }
 ]
