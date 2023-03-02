@@ -1,10 +1,56 @@
 [
     {
+        "id": "c18903fadc4d",
+        "title": "How to Handle Modals In A Large-Scale React App — Render Manager",
+        "permalink": "https://medium.com/p/c18903fadc4d",
+        "escapedTitle": "how-to-handle-modals-in-a-large-scale-react-app--render-manager",
+        "url": "https://medium.com/before-semicolon/how-to-handle-modals-in-a-large-scale-react-app-render-manager-c18903fadc4d?source=rss-505ba290f8ba------2",
+        "intro": "Modals, Dialogs, Notifications, and Snackbars, are all examples of “global components” — as I call them. These are components that should…",
+        "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*XwLgvgl3cRs87Lzp",
+        "readDuration": 4,
+        "urlShort": "https://medium.com/p/c18903fadc4d",
+        "category": [
+            "ui-ux-design",
+            "react",
+            "typescript",
+            "web-development",
+            "javascript"
+        ],
+        "publishedAt": "Thu, 02 Mar 2023 10:35:12 GMT",
+        "updatedAt": "2023-03-02T10:35:43.336Z",
+        "content": "",
+        "creator": "Elson Correia",
+        "link": "https://medium.com/before-semicolon/how-to-handle-modals-in-a-large-scale-react-app-render-manager-c18903fadc4d?source=rss-505ba290f8ba------2"
+    },
+    {
+        "id": "220fd276e5de",
+        "title": "You Are Using the “useState” Hook Wrong",
+        "permalink": "https://medium.com/p/220fd276e5de",
+        "escapedTitle": "you-are-using-the-usestate-hook-wrong",
+        "url": "https://medium.com/before-semicolon/you-are-using-the-usestate-hook-wrong-220fd276e5de?source=rss-505ba290f8ba------2",
+        "intro": "React API is not developer friendly. One of them is the useState hook which is another misunderstood API much like useEffect&nbsp;.",
+        "thumbnail": "https://cdn-images-1.medium.com/max/1500/1*8H9jIYKxBqt18EWSdBVVDA@2x.jpeg",
+        "readDuration": 4,
+        "urlShort": "https://medium.com/p/220fd276e5de",
+        "category": [
+            "programming",
+            "typescript",
+            "react",
+            "javascript",
+            "web-development"
+        ],
+        "publishedAt": "Mon, 27 Feb 2023 03:15:24 GMT",
+        "updatedAt": "2023-02-27T12:09:18.962Z",
+        "content": "",
+        "creator": "Elson Correia",
+        "link": "https://medium.com/before-semicolon/you-are-using-the-usestate-hook-wrong-220fd276e5de?source=rss-505ba290f8ba------2"
+    },
+    {
         "id": "8dbd046bddb3",
         "title": "How To Create a JSON Database In NodeJs From Scratch",
         "permalink": "https://medium.com/p/8dbd046bddb3",
         "escapedTitle": "how-to-create-a-json-database-in-nodejs-from-scratch",
-        "url": "https://elsoncorreia.medium.com/how-to-create-a-json-database-in-nodejs-from-scratch-8dbd046bddb3?source=rss-505ba290f8ba------2",
+        "url": "https://medium.com/before-semicolon/how-to-create-a-json-database-in-nodejs-from-scratch-8dbd046bddb3?source=rss-505ba290f8ba------2",
         "intro": "In order to teach myself my ways of working with NodeJs, Javascript, and Typescript, I have built many versions of a file-based JSON…",
         "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*rX8HMa1WcTxOuVo7",
         "readDuration": 4,
@@ -17,10 +63,10 @@
             "nodejs"
         ],
         "publishedAt": "Wed, 22 Feb 2023 10:55:39 GMT",
-        "updatedAt": "2023-02-22T10:55:39.822Z",
+        "updatedAt": "2023-02-25T07:25:27.028Z",
         "content": "",
         "creator": "Elson Correia",
-        "link": "https://elsoncorreia.medium.com/how-to-create-a-json-database-in-nodejs-from-scratch-8dbd046bddb3?source=rss-505ba290f8ba------2"
+        "link": "https://medium.com/before-semicolon/how-to-create-a-json-database-in-nodejs-from-scratch-8dbd046bddb3?source=rss-505ba290f8ba------2"
     },
     {
         "id": "16f3874f2ce5",
@@ -50,7 +96,7 @@
         "title": "Better Ways To Handle Data Storage on The Web Client",
         "permalink": "https://medium.com/p/5bead4a5aa8b",
         "escapedTitle": "better-ways-to-handle-data-storage-on-the-web-client",
-        "url": "https://elsoncorreia.medium.com/better-ways-to-handle-data-storage-on-the-web-client-5bead4a5aa8b?source=rss-505ba290f8ba------2",
+        "url": "https://medium.com/before-semicolon/better-ways-to-handle-data-storage-on-the-web-client-5bead4a5aa8b?source=rss-505ba290f8ba------2",
         "intro": "Whenever you mention data storage and state management on the web client, different people will provide you with different solutions. From&#x2026;",
         "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*ph0he5o0KcfUqR-1",
         "readDuration": 4,
@@ -63,10 +109,10 @@
             "programming"
         ],
         "publishedAt": "Sun, 12 Feb 2023 21:16:37 GMT",
-        "updatedAt": "2023-02-12T22:36:52.727Z",
+        "updatedAt": "2023-02-23T04:07:30.762Z",
         "content": "",
         "creator": "Elson Correia",
-        "link": "https://elsoncorreia.medium.com/better-ways-to-handle-data-storage-on-the-web-client-5bead4a5aa8b?source=rss-505ba290f8ba------2"
+        "link": "https://medium.com/before-semicolon/better-ways-to-handle-data-storage-on-the-web-client-5bead4a5aa8b?source=rss-505ba290f8ba------2"
     },
     {
         "id": "bcd7d3f90bd8",
@@ -96,7 +142,7 @@
         "title": "How to Handle Data Lists in React Like a Pro — FlatList React",
         "permalink": "https://medium.com/p/c5a82183d5b4",
         "escapedTitle": "how-to-handle-data-lists-in-react-like-a-pro--flatlist-react",
-        "url": "https://itnext.io/how-to-handle-data-lists-in-react-like-a-pro-flatlist-react-c5a82183d5b4?source=rss-505ba290f8ba------2",
+        "url": "https://medium.com/before-semicolon/how-to-handle-data-lists-in-react-like-a-pro-flatlist-react-c5a82183d5b4?source=rss-505ba290f8ba------2",
         "intro": "Often enough you get to deal with some set of data that you must list to the user. This can be in a dropdown, table, or standard&#x2026;",
         "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*75Lvdf-npMO6VVxm",
         "readDuration": 4,
@@ -109,10 +155,10 @@
             "web-development"
         ],
         "publishedAt": "Tue, 11 Oct 2022 05:00:51 GMT",
-        "updatedAt": "2022-11-29T07:25:20.423Z",
+        "updatedAt": "2023-02-23T04:07:54.266Z",
         "content": "",
         "creator": "Elson Correia",
-        "link": "https://itnext.io/how-to-handle-data-lists-in-react-like-a-pro-flatlist-react-c5a82183d5b4?source=rss-505ba290f8ba------2"
+        "link": "https://medium.com/before-semicolon/how-to-handle-data-lists-in-react-like-a-pro-flatlist-react-c5a82183d5b4?source=rss-505ba290f8ba------2"
     },
     {
         "id": "503b2231d5da",
@@ -182,51 +228,5 @@
         "content": "",
         "creator": "Elson Correia",
         "link": "https://javascript.plainenglish.io/7-functional-concepts-to-master-as-web-developer-f51fdaf6e5c3?source=rss-505ba290f8ba------2"
-    },
-    {
-        "id": "e0cf338c8e28",
-        "title": "How to Create SVG Font Icon Web Component",
-        "permalink": "https://medium.com/p/e0cf338c8e28",
-        "escapedTitle": "how-to-create-svg-font-icon-web-component",
-        "url": "https://elsoncorreia.medium.com/how-to-create-svg-font-icon-web-component-e0cf338c8e28?source=rss-505ba290f8ba------2",
-        "intro": "If you ever worked with SVG icons in your web application you must understand how hard it is to work with icons. There is a constant need&#x2026;",
-        "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*YxVRiimiSLgRpZ55",
-        "readDuration": 4,
-        "urlShort": "https://medium.com/p/e0cf338c8e28",
-        "category": [
-            "web-components",
-            "web-development",
-            "web-design",
-            "cwco",
-            "technology"
-        ],
-        "publishedAt": "Tue, 29 Mar 2022 09:42:07 GMT",
-        "updatedAt": "2022-11-29T07:26:47.401Z",
-        "content": "",
-        "creator": "Elson Correia",
-        "link": "https://elsoncorreia.medium.com/how-to-create-svg-font-icon-web-component-e0cf338c8e28?source=rss-505ba290f8ba------2"
-    },
-    {
-        "id": "6e752555149c",
-        "title": "How to Create a Theme Provider with Web Component?",
-        "permalink": "https://medium.com/p/6e752555149c",
-        "escapedTitle": "how-to-create-a-theme-provider-with-web-component",
-        "url": "https://medium.com/before-semicolon/how-to-create-a-theme-provider-with-web-component-6e752555149c?source=rss-505ba290f8ba------2",
-        "intro": "A theme provider is a special component that when wrapping your application content, will provide all the details your app needs to style&#x2026;",
-        "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*5xIFguJqp5Ov5wiM",
-        "readDuration": 4,
-        "urlShort": "https://medium.com/p/6e752555149c",
-        "category": [
-            "web-design",
-            "cwco",
-            "web-development",
-            "technology",
-            "web-components"
-        ],
-        "publishedAt": "Tue, 22 Mar 2022 02:59:13 GMT",
-        "updatedAt": "2022-11-29T07:27:06.029Z",
-        "content": "",
-        "creator": "Elson Correia",
-        "link": "https://medium.com/before-semicolon/how-to-create-a-theme-provider-with-web-component-6e752555149c?source=rss-505ba290f8ba------2"
     }
 ]
