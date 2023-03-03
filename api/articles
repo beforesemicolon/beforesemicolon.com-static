@@ -1,5 +1,28 @@
 [
     {
+        "id": "108b83e5a501",
+        "title": "How To Create Custom Modal/Dialog in React",
+        "permalink": "https://medium.com/p/108b83e5a501",
+        "escapedTitle": "how-to-create-custom-modaldialog-in-react",
+        "url": "https://medium.com/before-semicolon/how-to-create-custom-modal-dialog-in-react-108b83e5a501?source=rss-505ba290f8ba------2",
+        "intro": "Modals and Dialogs are ways you can focus users on a specific thing you want them to act upon. They are industry standard and super common…",
+        "thumbnail": "https://cdn-images-1.medium.com/max/2566/1*yomLDnSqB9k86Nlj3bCKvA.png",
+        "readDuration": 4,
+        "urlShort": "https://medium.com/p/108b83e5a501",
+        "category": [
+            "typescript",
+            "ui-design",
+            "front-end-development",
+            "react",
+            "web-development"
+        ],
+        "publishedAt": "Fri, 03 Mar 2023 10:31:06 GMT",
+        "updatedAt": "2023-03-03T10:31:06.798Z",
+        "content": "",
+        "creator": "Elson Correia",
+        "link": "https://medium.com/before-semicolon/how-to-create-custom-modal-dialog-in-react-108b83e5a501?source=rss-505ba290f8ba------2"
+    },
+    {
         "id": "c18903fadc4d",
         "title": "How to Handle Modals In A Large-Scale React App — Render Manager",
         "permalink": "https://medium.com/p/c18903fadc4d",
@@ -17,7 +40,7 @@
             "javascript"
         ],
         "publishedAt": "Thu, 02 Mar 2023 10:35:12 GMT",
-        "updatedAt": "2023-03-02T10:35:43.336Z",
+        "updatedAt": "2023-03-02T12:29:33.854Z",
         "content": "",
         "creator": "Elson Correia",
         "link": "https://medium.com/before-semicolon/how-to-handle-modals-in-a-large-scale-react-app-render-manager-c18903fadc4d?source=rss-505ba290f8ba------2"
@@ -205,28 +228,5 @@
         "content": "",
         "creator": "Elson Correia",
         "link": "https://javascript.plainenglish.io/a-better-way-to-work-with-web-client-storage-70387443b4cb?source=rss-505ba290f8ba------2"
-    },
-    {
-        "id": "f51fdaf6e5c3",
-        "title": "7 Functional Concepts to Master as a Web Developer",
-        "permalink": "https://medium.com/p/f51fdaf6e5c3",
-        "escapedTitle": "7-functional-concepts-to-master-as-a-web-developer",
-        "url": "https://javascript.plainenglish.io/7-functional-concepts-to-master-as-web-developer-f51fdaf6e5c3?source=rss-505ba290f8ba------2",
-        "intro": "Master these key concepts to become a better web developer.",
-        "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*5Euxi1fnme8NlCNE",
-        "readDuration": 4,
-        "urlShort": "https://medium.com/p/f51fdaf6e5c3",
-        "category": [
-            "javascript",
-            "software-development",
-            "programming",
-            "web-development",
-            "functional-programming"
-        ],
-        "publishedAt": "Mon, 11 Apr 2022 12:12:34 GMT",
-        "updatedAt": "2022-11-29T07:26:21.612Z",
-        "content": "",
-        "creator": "Elson Correia",
-        "link": "https://javascript.plainenglish.io/7-functional-concepts-to-master-as-web-developer-f51fdaf6e5c3?source=rss-505ba290f8ba------2"
     }
 ]
