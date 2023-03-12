@@ -6,27 +6,27 @@
         "description": "",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/default.jpg",
+                "url": "https://i.ytimg.com/vi/_n7HFZkacjk/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_n7HFZkacjk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_n7HFZkacjk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             },
             "standard": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/_n7HFZkacjk/sddefault.jpg",
                 "width": 640,
                 "height": 480
             },
             "maxres": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_n7HFZkacjk/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
             }
@@ -38,7 +38,7 @@
         },
         "id": "PLpWvGP6yhJUjsGQBNaXfeE8kYgv8piBG4",
         "url": "https://www.youtube.com/playlist?list=PLpWvGP6yhJUjsGQBNaXfeE8kYgv8piBG4",
-        "videos": 3
+        "videos": 2
     },
     {
         "publishedAt": "2023-03-05T17:18:29Z",
@@ -79,7 +79,7 @@
         },
         "id": "PLpWvGP6yhJUgSYmW68KUP0NmKgkISKjv9",
         "url": "https://www.youtube.com/playlist?list=PLpWvGP6yhJUgSYmW68KUP0NmKgkISKjv9",
-        "videos": 1
+        "videos": 2
     },
     {
         "publishedAt": "2022-01-01T16:37:23Z",

@@ -2,7 +2,7 @@
     {
         "publishedAt": "2023-03-11T17:17:51Z",
         "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
-        "title": "Create A Powerful JSON Database With Query API From Scratch",
+        "title": "Create A JSON Database With Query API From Scratch",
         "description": "A walk through how to put a complex JSON database in Node with a powerful query API and simple desig...",
         "thumbnails": {
             "default": {
@@ -33,7 +33,7 @@
         },
         "channelTitle": "Before Semicolon",
         "playlistId": "PLpWvGP6yhJUjsGQBNaXfeE8kYgv8piBG4",
-        "position": 1,
+        "position": 0,
         "videoOwnerChannelTitle": "Before Semicolon",
         "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
         "privacyStatus": "public",
@@ -43,52 +43,6 @@
             "NodeJs"
         ],
         "url": "https://www.youtube.com/watch?v=_n7HFZkacjk"
-    },
-    {
-        "publishedAt": "2023-03-05T17:16:34Z",
-        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
-        "title": "Node Server Endpoint Test With Super Test Example",
-        "description": "A simple example on how to test a Node Server Endpoint using Supertest and Jest\n\nNodeJs Typescript P...",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            },
-            "standard": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/sddefault.jpg",
-                "width": 640,
-                "height": 480
-            },
-            "maxres": {
-                "url": "https://i.ytimg.com/vi/HGjXNnq8gZA/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-            }
-        },
-        "channelTitle": "Before Semicolon",
-        "playlistId": "PLpWvGP6yhJUjsGQBNaXfeE8kYgv8piBG4",
-        "position": 0,
-        "videoOwnerChannelTitle": "Before Semicolon",
-        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
-        "privacyStatus": "public",
-        "id": "HGjXNnq8gZA",
-        "playlistName": "NodeJs",
-        "playlists": [
-            "NodeJs",
-            "Shorts"
-        ],
-        "url": "https://www.youtube.com/watch?v=HGjXNnq8gZA"
     },
     {
         "publishedAt": "2023-03-04T23:21:53Z",
@@ -124,7 +78,7 @@
         },
         "channelTitle": "Before Semicolon",
         "playlistId": "PLpWvGP6yhJUjsGQBNaXfeE8kYgv8piBG4",
-        "position": 2,
+        "position": 1,
         "videoOwnerChannelTitle": "Before Semicolon",
         "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
         "privacyStatus": "public",
