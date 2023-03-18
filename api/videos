@@ -1,5 +1,51 @@
 [
     {
+        "publishedAt": "2023-03-18T04:24:50Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Custom React Modular Modal Component",
+        "description": "A quick guide on how to create a modular modal component in #react using #typescript \n\n[Source Code ...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/r0_spt14oFc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/r0_spt14oFc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/r0_spt14oFc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/r0_spt14oFc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/r0_spt14oFc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "playlistId": "PLpWvGP6yhJUj6pXXAPI1sEypUuIvI4qKW",
+        "position": 0,
+        "videoOwnerChannelTitle": "Before Semicolon",
+        "videoOwnerChannelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "privacyStatus": "public",
+        "id": "r0_spt14oFc",
+        "playlistName": "React",
+        "playlists": [
+            "React",
+            "Build Web Views & UI Elements"
+        ],
+        "url": "https://www.youtube.com/watch?v=r0_spt14oFc"
+    },
+    {
         "publishedAt": "2023-03-11T17:17:51Z",
         "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
         "title": "Create A JSON Database With Query API From Scratch",
