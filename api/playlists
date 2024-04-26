@@ -1,5 +1,87 @@
 [
     {
+        "publishedAt": "2024-04-20T23:46:52Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Markup Tutorials",
+        "description": "Tutorials using Markup and related packages",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1o1fL0q1qJU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1o1fL0q1qJU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1o1fL0q1qJU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1o1fL0q1qJU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1o1fL0q1qJU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "localized": {
+            "title": "Markup Tutorials",
+            "description": "Tutorials using Markup and related packages"
+        },
+        "id": "PLpWvGP6yhJUh7gh0bOo4DZ6mqTiV6Pa2m",
+        "url": "https://www.youtube.com/playlist?list=PLpWvGP6yhJUh7gh0bOo4DZ6mqTiV6Pa2m",
+        "videos": 1
+    },
+    {
+        "publishedAt": "2024-03-10T09:32:06Z",
+        "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
+        "title": "Markup Essentials Training",
+        "description": "Learn everything about Markup Templating System by Before Semicolon",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mIr2XglV5nQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mIr2XglV5nQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mIr2XglV5nQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mIr2XglV5nQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mIr2XglV5nQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Before Semicolon",
+        "localized": {
+            "title": "Markup Essentials Training",
+            "description": "Learn everything about Markup Templating System by Before Semicolon"
+        },
+        "id": "PLpWvGP6yhJUgWNiz25vj__CArY9Z0O6ke",
+        "url": "https://www.youtube.com/playlist?list=PLpWvGP6yhJUgWNiz25vj__CArY9Z0O6ke",
+        "videos": 20
+    },
+    {
         "publishedAt": "2023-03-18T03:42:59Z",
         "channelId": "UCrU33aw1k9BqTIq2yKXrmBw",
         "title": "React",
@@ -120,7 +202,7 @@
         },
         "id": "PLpWvGP6yhJUgSYmW68KUP0NmKgkISKjv9",
         "url": "https://www.youtube.com/playlist?list=PLpWvGP6yhJUgSYmW68KUP0NmKgkISKjv9",
-        "videos": 2
+        "videos": 5
     },
     {
         "publishedAt": "2022-01-01T16:37:23Z",

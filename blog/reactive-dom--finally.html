@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="en" color-mode="">
+<head>
+	<base href="/">
+	<!-- meta -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="msapplication-TileColor" content="#fff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#242424">
+	<meta name="Description" content="As a web developer, if you stop to think about web development, you will realize that all UI libraries and frameworks are just trying to fix the cumbersome of working with DOM and creating reusable code. You can find everything else built into the browser or JavaScript already.">
+	<meta property="og:title" content="Reactive DOM — Finally!">
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="As a web developer, if you stop to think about web development, you will realize that all UI libraries and frameworks are just trying to fix the cumbersome of working with DOM and creating reusable code. You can find everything else built into the browser or JavaScript already.">
+	<meta property="og:image" content="https://cdn-images-1.medium.com/max/1024/1*yIr6F2O34NcuCWht_Cv74A@2x.png">
+	<meta property="og:url" content="https://beforesemicolon.com/blog/9ccfd2b181b7">
+	<meta property="og:site_name" content="Before Semicolon">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@beforesemicolon">
+	<meta name="twitter:image" content="https://cdn-images-1.medium.com/max/1024/1*yIr6F2O34NcuCWht_Cv74A@2x.png">
+	<meta name="twitter:description" content="As a web developer, if you stop to think about web development, you will realize that all UI libraries and frameworks are just trying to fix the cumbersome of working with DOM and creating reusable code. You can find everything else built into the browser or JavaScript already.">
+	<meta name="twitter:image:alt" content="Reactive DOM — Finally!">
+	<!-- title -->
+	<title>Before Semicolon - Reactive DOM — Finally!</title>
+	<!-- fonts -->
+	<link rel="stylesheet" href="./assets/fonts/icons/font-icons.css">
+	<link rel="preload" href="./assets/fonts/Alternate Gothic No3 D Regular.ttf" as="font" crossorigin="anonymous">
+	<link rel="preload" href="./assets/fonts/OpenSans-Regular.ttf" as="font" crossorigin="anonymous">
+	<link rel="preload" href="./assets/fonts/OpenSans-Italic.ttf" as="font" crossorigin="anonymous">
+	<link rel="preload" href="./assets/fonts/OpenSans-Semibold.ttf" as="font" crossorigin="anonymous">
+	<link rel="preload" href="./assets/fonts/OpenSans-SemiboldItalic.ttf" as="font" crossorigin="anonymous">
+	<link rel="preload" href="./assets/fonts/OpenSans-ExtraBold.ttf" as="font" crossorigin="anonymous">
+	<!-- favicons -->
+	<link rel="apple-touch-icon" sizes="57x57" href="./assets/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="./assets/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="./assets/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="./assets/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="./assets/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="./assets/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="./assets/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="./assets/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="./assets/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="./assets/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+	<!-- manifest -->
+	<link rel="manifest" href="manifest.json">
+	<!-- css -->
+	<link rel="stylesheet" href="./styles/article.css">
+	<!-- scripts -->
+	<script id="color-mode-initializer">
+		const colorMode = localStorage.getItem('color-mode') || 'dark';
+		document.querySelector('html').setAttribute('color-mode', colorMode);
+		localStorage.setItem('color-mode', colorMode);
+		document.getElementById('color-mode-initializer').remove();
+	</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180554532-1"></script>
+		<script async data-ad-client="ca-pub-5455847849143562" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
+
+	
+		<script defer src="https://platform.twitter.com/widgets.js"></script>
+	
+		<script defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0"></script>
+	
+		<script defer src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+	
+</head>
+<body data-env="production">
+	<div class="main-wrapper">
+		<noscript>
+			<p class="no-javascript-warning">
+				<strong>Javascript is Disabled!</strong> Some features are only available with Javascript turned on. Please <em>turn on Javascript</em> to allow full website experience.
+			</p>
+		</noscript>
+		<header>
+			<h1>
+				<img src="./assets/before-semicolon-logo.png" alt="before semicolon logo">
+				<a href="./">Before Semicolon</a>
+			</h1>
+			<div class="control-bar">
+				<div class="subscribe-button">
+					<a href="https://www.youtube.com/channel/UCrU33aw1k9BqTIq2yKXrmBw" target="_blank" rel="noopener">subscribe</a>
+					
+
+					<p data-subs="8.99K"><span>Join the growing community of</span> <strong>8.99K developers</strong></p>
+				</div>
+			</div>
+			
+			<nav tabindex="0">
+				<ul role="menubar" aria-haspopup="true">
+					
+						<li role="menuitem" class="" >
+							<a href="/" >Home</a>
+						</li>
+					
+						<li role="menuitem" class="" >
+							<a href="/videos" >Videos</a>
+						</li>
+					
+						<li role="menuitem" class="active" >
+							<a href="/blog" >Blog</a>
+						</li>
+					
+						<li role="menuitem" class="" >
+							<a href="/contact" >Contact</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</header>
+		<main>
+
+
+
+
+<h2 class="heading-title">Reactive DOM — Finally!</h2>
+<p class="post-published-date">
+	published: <em>Sun, Apr 21, 2024</em> . <b>4 min read</b>
+</p>
+<div class="share-controls">
+	<div class="icon twitter-icon share-btn" data-type="twitter">
+		<a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Reactive DOM — Finally!"></a>
+	</div>
+	<div class="icon facebook-icon share-btn" data-type="facebook">
+		<div class="fb-share-button" data-href="https://beforesemicolon.com/blog/9ccfd2b181b7" data-layout="button"></div>
+	</div>
+	<div class="icon linkedin-icon share-btn" data-type="linkedin">
+		<script type="IN/Share" data-url="https://beforesemicolon.com/blog/9ccfd2b181b7"></script>
+	</div>
+	<div class="share-btn" data-type="share-link">
+		copy share link
+	</div>
+</div>
+
+
+<div class="content-wrapper">
+	<article data-title="reactive-dom--finally">
+		<div class="post-thumbnail">
+			<img src="https://cdn-images-1.medium.com/max/1024/1*yIr6F2O34NcuCWht_Cv74A@2x.png" alt="Reactive DOM — Finally!">
+		</div>
+		<p class="post-tags"><span>markupjs</span><span>frontend-development</span><span>programming</span><span>web-development</span><span>technology</span></p>
+		<h3>Reactive DOM — Finally</h3><h4>DOM API should not be the reason to avoid building with Vanilla JavaScript</h4><p>As a web developer, if you stop to think about web development, you will realize that all UI libraries and frameworks are just trying to fix the cumbersome of working with DOM and creating reusable code. You can find everything else built into the browser or JavaScript already.</p><p>For example, let’s create a simple counter&nbsp;widget.</p><p>We can start by defining the HTML like&nbsp;so:</p><pre>&lt;div class="vanilla-count"&gt;<br>  &lt;p&gt;count: &lt;span class="count-value"&gt;0&lt;/span&gt;&lt;/p&gt;<br>  &lt;button type="button" class="count-down"&gt;-&lt;/button&gt;<br>  &lt;button type="button" class="count-up"&gt;+&lt;/button&gt;<br>&lt;/div&gt;</pre><p>Without adding any styling, let’s add behavior to it with JavaScript:</p><pre>const vanillaCount = document.querySelector('.vanilla-count');<br>const [countDisplay, countDownButton, countUpButton] = vanillaCount.children;<br>const [countSpan] = countDisplay.children;<br><br>let count = 0;<br><br>countUpButton.addEventListener('click', () =&gt; {<br>  count += 1;<br>  countSpan.textContent = count;<br>})<br><br>countDownButton.addEventListener('click', () =&gt; {<br>  count -= 1;<br>  countSpan.textContent = count;<br>})</pre><h4>The problem</h4><p>With this, we face a few problems:</p><ul><li><strong>HTML and JavaScript code are decoupled</strong>: nothing couples these together to ensure that changing one wouldn’t break the&nbsp;other.</li><li><strong>Custom reactivity and DOM manipulation</strong>: To make it work, you must add your reactive behavior with event listening and DOM manipulation. This is a simple example, but it would be a living hell in a more complex scenario.</li><li><strong>Reusability</strong>: if you want to reuse this in multiple places, it does not come with additional management and refactoring to avoid conflicts.</li></ul><p>We can solve the reusability and decoupling issues easily with functions. Something like&nbsp;this:</p><pre>const createCountWidget = (parent) =&gt; {<br>  const vanillaCount = document.createElement('div');<br>  vanillaCount.className = 'vanilla-count';<br>  vanillaCount.innerHTML = `<br>    &lt;p&gt;count: &lt;span class="count-value"&gt;0&lt;/span&gt;&lt;/p&gt;<br>    &lt;button type="button" class="count-down"&gt;-&lt;/button&gt;<br>    &lt;button type="button" class="count-up"&gt;+&lt;/button&gt;<br>  `<br>  <br>  const [countDisplay, countDownButton, countUpButton] = vanillaCount.children;<br>  const [countSpan] = countDisplay.children;<br>  <br>  let count = 0;<br>  <br>  countUpButton.addEventListener('click', () =&gt; {<br>    count += 1;<br>    countSpan.textContent = count;<br>  })<br>  <br>  countDownButton.addEventListener('click', () =&gt; {<br>    count -= 1;<br>    countSpan.textContent = count;<br>  })<br>  <br>  parent.appendChild(vanillaCount)<br>}</pre><p>By moving everything inside a function, we ensure everything works together and reuse it as often as possible by calling it with a parent node where it must be&nbsp;added.</p><pre>createCountWidget(document.body)</pre><p>This can even be a web component to solve the same&nbsp;issues:</p><pre>class CountWidget extends HTMLElement {<br>  count = 0;<br><br>  constructor() {<br>    super();<br>    <br>    this.innerHTML = `<br>      &lt;p&gt;count: &lt;span class="count-value"&gt;0&lt;/span&gt;&lt;/p&gt;<br>      &lt;button type="button" class="count-down"&gt;-&lt;/button&gt;<br>      &lt;button type="button" class="count-up"&gt;+&lt;/button&gt;<br>    `;<br>  }<br><br>  countUp = () =&gt; {<br>    this.count += 1;<br>    this.querySelector('.count-value').textContent = this.count;<br>  }<br>  <br>  countDown = (evt) =&gt; {<br>    this.count -= 1;<br>    this.querySelector('.count-value').textContent = this.count;<br>  }<br>  <br>  connectedCallback() {<br>    const [, countDownButton, countUpButton] = this.children;<br><br>    countUpButton.addEventListener('click', this.countUp);<br>    countDownButton.addEventListener('click', this.countDown);<br>  }<br>}<br><br>customElements.define('count-widget', CountWidget)</pre><p>We would have our custom HTML tag to use anywhere we&nbsp;like…</p><pre>&lt;count-widget&gt;&lt;/count-widget&gt;</pre><p>Web components give us some reactivity from props, but as you can see, state handling and DOM manipulation inside the component are still required to make things&nbsp;work.</p><h4>Now what?</h4><p>This is why people use libraries like React, Angular, and many others. They solve such problems by providing out-of-the-box APIs and a big ecosystem that allows us to build anything fast and reliable.</p><p>If you could solve the reactivity in the DOM, you wouldn’t need these libraries unless you want to lock yourself in an ecosystem or framework.</p><p>For example, what if we could do the following:</p><pre>const CountWidget = () =&gt; {<br>  const [count, updateCount] = state(0);<br>  <br>  const countUp = () =&gt; updateCount(prev =&gt; prev + 1)<br>  const countDown = () =&gt; updateCount(prev =&gt; prev - 1)<br>  <br>  return html`<br>    &lt;div class="markup-count"&gt;<br>      &lt;p&gt;count: &lt;span class="count-value"&gt;${count}&lt;/span&gt;&lt;/p&gt;<br>      &lt;button type="button" class="count-down" onclick=${countDown}&gt;-&lt;/button&gt;<br>      &lt;button type="button" class="count-up" onclick=${countUp}&gt;+&lt;/button&gt;<br>    &lt;/div&gt;<br>  `<br>}<br><br>CountWidget().render(document.body)</pre><p>The only thing new in the above code is <a href="https://markup.beforesemicolon.com/documentation/state-values">state</a> and <a href="https://markup.beforesemicolon.com/documentation/creating-and-rendering">html</a> APIs; everything else is Vanilla JavaScript. It leaves everything up to you as a web developer.</p><p>Or if web components were just as simple&nbsp;as:</p><pre>class CountWidget extends WebComponent {<br>  initialState = {<br>    count: 0<br>  }<br>  <br>  countUp = () =&gt; this.setState({<br>    count: this.state.count() + 1<br>  })<br>  <br>  countDown = () =&gt; this.setState({<br>    count: this.state.count() - 1<br>  })<br>  <br>  render() {<br>    return html`<br>      &lt;div class="markup-count"&gt;<br>        &lt;p&gt;count: &lt;span class="count-value"&gt;${this.state.count}&lt;/span&gt;&lt;/p&gt;<br>        &lt;button type="button" class="count-down" onclick=${this.countDown}&gt;-&lt;/button&gt;<br>        &lt;button type="button" class="count-up" onclick=${this.countUp}&gt;+&lt;/button&gt;<br>      &lt;/div&gt;<br>    `<br>  }<br>}<br><br>customElements.define('count-widget', CountWidget)</pre><p>This is all possible with <a href="https://markup.beforesemicolon.com/"><strong>Markup</strong></a> in a roughly <strong>6kb package</strong> requiring no build and code compilation. Simply add a link to the top of your HTML page and&nbsp;get:</p><ul><li>Reactive templates with state handling;</li><li>Small and fast solution for DOM manipulation and reusable&nbsp;code;</li><li>Server-side rendering for templates;</li><li>Web components API simplified;</li></ul><p>I work with all these popular UI libraries, but occasionally, I want to do something simple without distancing myself too far from Vanilla JavaScript.</p><p>So, I created <a href="https://markup.beforesemicolon.com/">Markup</a> and redefined what reactivity and <a href="https://markup.beforesemicolon.com/documentation/web-components">Web Components</a> could be and do without installing a big opinionated package.</p><p>I prepared an essential training, but you can always check <a href="https://markup.beforesemicolon.com/documentation/get-started">the docs</a> for examples and more&nbsp;details.</p><iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmIr2XglV5nQ%3Flist%3DPLpWvGP6yhJUgWNiz25vj__CArY9Z0O6ke&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmIr2XglV5nQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmIr2XglV5nQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" frameborder="0" scrolling="no"><a href="https://medium.com/media/ba7ba7686454f121d68c027e7f10c4a5/href">https://medium.com/media/ba7ba7686454f121d68c027e7f10c4a5/href</a></iframe><p>We have many great solutions; everyone can find what works for them. I wish something like Markup could be defaulted in browsers so we don’t have to split ourselves into different ecosystems and fight over which is&nbsp;better.</p><p>I created Markup so it could work for anyone alongside any library and framework while <strong>keeping it simple down to 3 essential APIs</strong>, leaving everything else up to everyone’s imagination.</p><p>Let me know what you&nbsp;think!</p><img src="https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=9ccfd2b181b7" width="1" height="1" alt=""><hr>
+		<a href="https://medium.com/before-semicolon/reactive-dom-finally-9ccfd2b181b7?source=rss-505ba290f8ba------2" class="link-to-medium" target="_blank">Leave a Comment</a>
+		<div class="share-controls">
+	<div class="icon twitter-icon share-btn" data-type="twitter">
+		<a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Reactive DOM — Finally!"></a>
+	</div>
+	<div class="icon facebook-icon share-btn" data-type="facebook">
+		<div class="fb-share-button" data-href="https://beforesemicolon.com/blog/9ccfd2b181b7" data-layout="button"></div>
+	</div>
+	<div class="icon linkedin-icon share-btn" data-type="linkedin">
+		<script type="IN/Share" data-url="https://beforesemicolon.com/blog/9ccfd2b181b7"></script>
+	</div>
+	<div class="share-btn" data-type="share-link">
+		copy share link
+	</div>
+</div>
+
+	</article>
+
+	<aside>
+		
+<div class="latest-blog-post-widget side-widget listing-widget">
+    <h4>Latest Blog Posts</h4>
+    
+    <a href="blog/reactive-dom--finally">
+        <h5>Reactive DOM — Finally!</h5>
+        <p>Apr 21, 2024 . <strong>4 min read</strong></p>
+    </a>
+    
+    <a href="https://medium.com/before-semicolon/setup-for-a-typescript-node-npm-package-project-90977401e051?source=rss-505ba290f8ba------2">
+        <h5>Setup for a TypeScript Node NPM Package Project</h5>
+        <p>Jan 14, 2024 . <strong>4 min read</strong></p>
+    </a>
+    
+    <a href="https://elsontc.medium.com/how-i-built-a-fast-html-parser-using-regex-and-typescript-947265ae7ad3?source=rss-505ba290f8ba------2">
+        <h5>How I Built a Fast HTML Parser Using Regex and TypeScript</h5>
+        <p>Nov 12, 2023 . <strong>4 min read</strong></p>
+    </a>
+    
+    <a href="https://medium.com/before-semicolon/how-to-create-custom-modal-dialog-in-react-108b83e5a501?source=rss-505ba290f8ba------2">
+        <h5>How To Create Custom Modal/Dialog in React</h5>
+        <p>Mar 03, 2023 . <strong>4 min read</strong></p>
+    </a>
+    
+    <a href="https://medium.com/before-semicolon/how-to-handle-modals-in-a-large-scale-react-app-render-manager-c18903fadc4d?source=rss-505ba290f8ba------2">
+        <h5>How to Handle Modals In A Large-Scale React App — Render Manager</h5>
+        <p>Mar 02, 2023 . <strong>4 min read</strong></p>
+    </a>
+    
+    <a href="https://medium.com/before-semicolon/how-to-create-a-json-database-in-nodejs-from-scratch-8dbd046bddb3?source=rss-505ba290f8ba------2">
+        <h5>How To Create a JSON Database In NodeJs From Scratch</h5>
+        <p>Feb 22, 2023 . <strong>4 min read</strong></p>
+    </a>
+    
+</div>
+
+
+		
+<div class="popular-playlists-widget side-widget listing-widget">
+    <h4>Popular Playlists</h4>
+    
+        <a href="https://www.youtube.com/playlist?list=PLpWvGP6yhJUgWNiz25vj__CArY9Z0O6ke" target="_blank" rel="noopener">
+            <h5>Markup Essentials Training</h5>
+            <p>20 videos</p>
+        </a>
+    
+        <a href="https://www.youtube.com/playlist?list=PLpWvGP6yhJUh861ba0RvGvb1Vlu-faG3X" target="_blank" rel="noopener">
+            <h5>When To Use *</h5>
+            <p>10 videos</p>
+        </a>
+    
+        <a href="https://www.youtube.com/playlist?list=PLpWvGP6yhJUhC1SpdouTObbd5yGgV4opL" target="_blank" rel="noopener">
+            <h5>Data Structures - Javascript</h5>
+            <p>39 videos</p>
+        </a>
+    
+        <a href="https://www.youtube.com/playlist?list=PLpWvGP6yhJUhDOU6LeJxEksCLxWxZo5y0" target="_blank" rel="noopener">
+            <h5>Build Web Views &amp; UI Elements</h5>
+            <p>37 videos</p>
+        </a>
+    
+        <a href="https://www.youtube.com/playlist?list=PLpWvGP6yhJUhYnSN37wQlT4UfQYpaA7Hx" target="_blank" rel="noopener">
+            <h5>HTML</h5>
+            <p>4 videos</p>
+        </a>
+    
+        <a href="https://www.youtube.com/playlist?list=PLpWvGP6yhJUgbjKP73UtBYsLzwwR0ybSR" target="_blank" rel="noopener">
+            <h5>Javascript, DOM and Web Components</h5>
+            <p>8 videos</p>
+        </a>
+    
+</div>
+
+
+		<a rel="noopener" href="https://medium.com/before-semicolon" class="social-link-widget side-widget" target="_blank">Medium <span>@beforesemicolon</span></a>
+<a rel="noopener" href="https://github.com/beforesemicolon" class="social-link-widget side-widget" target="_blank">Github <span>@beforesemicolon</span></a>
+<a rel="noopener" href="https://codepen.io/beforesemicolon" class="social-link-widget side-widget" target="_blank">CodePen <span>@beforesemicolon</span></a>
+<a rel="noopener" href="https://www.instagram.com/before_semicolon_/" class="social-link-widget side-widget" target="_blank">Instagram <span>@before_semicolon_</span></a>
+<a rel="noopener" href="https://twitter.com/beforesemicolon" class="social-link-widget side-widget" target="_blank">Twitter <span>@beforesemicolon</span></a>
+<a rel="noopener" href="https://www.facebook.com/beforesemicolon/" class="social-link-widget side-widget" target="_blank">Facebook <span>@beforesemicolon</span></a>
+
+	</aside>
+</div>
+
+			<footer>
+				<p class="logo-email">
+					<b>Before Semicolon</b>
+					<a href="mailto:design@elsoncorreia.com">support@beforesemicolon.com</a>
+				</p>
+				<p class="copyright">
+					copyright &copy; Before Semicolon 2024. <br> All rights reserved.
+					<b>
+						<q>There are 2 ways to write error-free program. <br> Only the third one works.</q>
+						<b>-- Alan Perlis --</b>
+					</b>
+				</p>
+			</footer>
+		</main>
+	</div>
+
+	<script src="./scripts/common.js"></script>
+	
+			<script defer async>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+
+				gtag('config', 'UA-180554532-1');
+			</script>
+	
+
+	
+
+	
+		<script src="./scripts/article.js" type="module"></script>
+	
+</body>
+</html>
+
+
+
